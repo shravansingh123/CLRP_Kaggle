@@ -1,2 +1,2 @@
 # CLRP_Kaggle
- two models
+ two different models for kaggle CLRP problem
